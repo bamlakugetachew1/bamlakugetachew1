@@ -16,9 +16,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: reach me through gmail abuyeget@gmail.com
 -  👀  reach me through portfolio https://bamlakugetachew.netlify.app/
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/bamlaku-getachew/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges"
+     <h3>Connect with me:</h3><br>
+     <a href="https://www.linkedin.com/in/bamlaku-getachew/">
+    <img src="https://www.shutterstock.com/image-photo/valencia-spain-may-15-2017-260nw-1376872499.jpg" alt="LinkedIn Badge" height="40" width="40"/>
    </a>
   </div>
   :hammer_and_wrench: Languages and Tools :
