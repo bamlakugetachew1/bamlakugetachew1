@@ -43,6 +43,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv1WUXYiHNfs9W17KdtqMovpZ8-fcOBrceq8CuCr1Fw&s" title="hasura" **alt="hasura" width="40"        height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql" **alt="graphql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" title="golang" **alt="golang" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socketio **alt="socketio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify **alt="vuetify" width="40" height="40"/>
+
+
+
+
 </div>
 
 ### :fire: My Stats :
