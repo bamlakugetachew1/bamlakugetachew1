@@ -50,6 +50,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" title="golang" **alt="golang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socketio **alt="socketio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify **alt="vuetify" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-nbhEx1utDSwmGY3GmGQ8oLoYOp9CdbcDCArPKtgWQ&s" title="postman **alt="postman" width="40" height="40"/>
+     <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" title="insomina **alt="insomina" width="40" height="40"/>
+
 
 
 
